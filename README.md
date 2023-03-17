@@ -1,4 +1,5 @@
-<p aling="center">Hi, i'm Kauã Lusvarghi 🤟🔥</p>
+  <p align="center">Hi, i'm Kauã Lusvarghi 🤟🔥</p>
+
 
 <div align="center">
   <a href="https://github.com/klusvarghi">
