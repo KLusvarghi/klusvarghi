@@ -1,8 +1,8 @@
 <img width=100% src="https://capsule-render.versel.app/api?type=waving&color=ff91a4&height=120&section=header" />
 
 <p align="center" fontSize="40">Hi, i'm Kauã Lusvarghi 🤟🔥</p>
-##
-
+ 
+ 
 <div align="center">
   <a href="https://github.com/klusvarghi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=klusvarghi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
