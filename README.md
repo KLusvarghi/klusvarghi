@@ -1,4 +1,4 @@
-  <p align="center" font="40">Hi, i'm Kauã Lusvarghi 🤟🔥</p>
+  <p align="center" fontSize="40">Hi, i'm Kauã Lusvarghi 🤟🔥</p>
 
 
 <div align="center">
