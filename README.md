@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.versel.app/api?type=waving&color=ff91a4&height=120&section=header" />
 
-<p align="center" fontSize="40">
+<p align="center" font-size=40>
  Hi, i'm Kauã Lusvarghi 🤟🔥
 </p>
  
