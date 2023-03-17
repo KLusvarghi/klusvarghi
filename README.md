@@ -1,5 +1,5 @@
-  <p align="center" fontSize="40">Hi, i'm Kauã Lusvarghi 🤟🔥</p>
-# 📊 GitHub Stats:
+<img width="100%" src="https://capsule-render.versel.app/api?type=waving&color=008B8B&height=008B8B&section=header"/>
+<p align="center" fontSize="40">Hi, i'm Kauã Lusvarghi 🤟🔥</p>
 
 <div align="center">
   <a href="https://github.com/klusvarghi">
