@@ -1,10 +1,15 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=KauaLusvarghi&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Kauã+Ortolani+Lusvarghi&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35" />
+
+[![Typing_SVG](https://readme-typing-svg.herokuapp.com/?color00bfbf&size=35&center=true&width=1000&lines=Hello,+I'm+a+front-end+developer;I'm+19+years+old;I+study+analysis+and+systems+development+at+FATEC;Be+Welcome+to+my+GitHub!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">
   <a href="https://github.com/klusvarghi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=klusvarghi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klusvarghi&layout=compact&langs_count=7&theme=algolia"/>
+  
+  <img height="195px" width="49%" src="https://github-readme-stats.vercel.app/api?username=klusvarghi&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true" alt="Kauã Ortolani Lusvarghi github starts" />
+  
+ 
+  <img height="195px" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klusvarghi&layout=compact&hide_border=true&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&langs_count=7"/>
 </div>
 
  <div style="display: inline_block" align="center"><br>
