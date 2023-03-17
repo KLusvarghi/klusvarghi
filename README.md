@@ -1,5 +1,7 @@
 <img width=100% src="https://capsule-render.versel.app/api?type=waving&color=ff91a4&height=120&section=header" />
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="center" fontSize="40">Hi, i'm Kauã Lusvarghi 🤟🔥</p>
 
 <div align="center">
