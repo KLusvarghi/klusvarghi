@@ -1,10 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text='KauãLusvarghi'&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Kauã Lusvarghi&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35" />
 
 
-
- # Hi, i'm Kauã Lusvarghi 🤟🔥
- 
- 
 <div align="center">
   <a href="https://github.com/klusvarghi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=klusvarghi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
