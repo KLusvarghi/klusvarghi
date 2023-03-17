@@ -1,8 +1,5 @@
 <img width=100% src="https://capsule-render.versel.app/api?type=waving&color=ff91a4&height=120&section=header" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
-
 <p align="center" fontSize="40">Hi, i'm Kauã Lusvarghi 🤟🔥</p>
 
 <div align="center">
@@ -11,7 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klusvarghi&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
- <div style="display: inline_block"><br>
+ <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Kaua-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Kaua-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Kaua-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -19,7 +16,7 @@
 </div>
    
  
-  <div> 
+  <div align="center"> 
   <a href="https://instagram.com/lusvargkaua" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:kauaolusvarghi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kau%C3%A3-lusvarghi-422b141b4" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
