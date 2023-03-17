@@ -1,4 +1,4 @@
-### Hi, i'm Kauã Lusvarghi 🤟🔥
+<p aling="center">Hi, i'm Kauã Lusvarghi 🤟🔥</p>
 
 <div align="center">
   <a href="https://github.com/klusvarghi">
