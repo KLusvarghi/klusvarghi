@@ -8,9 +8,12 @@
   <img height="195px" width="49%" src="https://github-readme-stats.vercel.app/api?username=klusvarghi&show_icons=true&count_private=true&hide_border=true&title_color=4682B4&icon_color=4682B4&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true" alt="Kauã Ortolani Lusvarghi github starts" />
   
   <img height="195px" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klusvarghi&layout=compact&hide_border=true&title_color=4682B4&text_color=4682B4&bg_color=0d1117&langs_count=7"/>
-</div>
-
- <div style="display: inline_block" align="center"><br>
+<br><br>
+  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=klusvarghi&bg_color=0d1117&color=4682b4&line=4682b4&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+  
+ <div align="center"><br>
   <img align="center" alt="Kaua-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Kaua-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Kaua-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
