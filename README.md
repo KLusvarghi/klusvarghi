@@ -1,15 +1,4 @@
 <img width=100% src="https://capsule-render.versel.app/api?type=waving&color=ff91a4&height=120&section=header" />
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
 
 <p align="center" fontSize="40">Hi, i'm Kauã Lusvarghi 🤟🔥</p>
 
