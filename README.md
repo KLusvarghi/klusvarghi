@@ -1,4 +1,7 @@
-<img width=100% src="https://capsule-render.versel.app/api?type=waving&color=ff91a4&height=120&section=header" />
+<img width=100% src="https://capsule-render.vercel.app/api?
+type=waving&color=00bfbf&height=180&section=header" />
+
+
 
  # Hi, i'm Kauã Lusvarghi 🤟🔥
  
