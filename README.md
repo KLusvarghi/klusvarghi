@@ -1,5 +1,5 @@
   <p align="center" fontSize="40">Hi, i'm Kauã Lusvarghi 🤟🔥</p>
-
+# 📊 GitHub Stats:
 
 <div align="center">
   <a href="https://github.com/klusvarghi">
