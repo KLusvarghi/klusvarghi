@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=110&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35" />
 
-[![Typing_SVG](https://readme-typing-svg.herokuapp.com/?color=D2E2F0&size=35&center=true&width=1000&lines=Hello,+my+name+is+Kauã+Ortolani+Lusvarghi;I'm+a+front-end+developer;I'm+19+years+old;I+study+analysis+and+systems+development+at+Fatec;Be+Welcome+to+my+GitHub!+:%29)](https://git.io/typing-svg)
+[![Typing_SVG](https://readme-typing-svg.herokuapp.com/?color=D2E2F0&size=35&center=true&width=1000&lines=Hello,+my+name+is+Kauã+Ortolani+Lusvarghi;I'm+a+front-end+developer;I'm+21+years+old;I+study+analysis+and+systems+development+at+Fatec;Be+Welcome+to+my+GitHub!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/klusvarghi">
@@ -16,7 +16,7 @@
   </h3>
   <div align="center"> 
     <a href = "mailto:kauaolusvarghi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
-    <a href="https://instagram.com/iamlusvarghi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://instagram.com/lusvarghikaua" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/kau%C3%A3-lusvarghi-422b141b4" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
 </div>    
@@ -48,8 +48,3 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-
-
-    
-![Snake animation](https://github.com/KLusvarghi/KLusvarghi/blob/output/github-contribution-grid-snake.svg)
-
