@@ -6,7 +6,7 @@
 <h3 align="center">Aqui habita um apaixonado por porgramação!</h3>
 <div align="center">
     
-   🌱 Atualmente estou aprendendo **Next.js** <br>
+   🕹️ Atualmente estou aprendendo **Next.js** <br>
    🔭 Atualmente estudando e me preparando para a **primeira vaga dev**
  </div>
 <div align="center"> 
