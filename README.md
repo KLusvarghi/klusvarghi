@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=klusvarghi.klusvarghi" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=6600&lines=E+ai,+Tranquilo?!+🤙🏼;+Eu+Sou+Kauã+Lusvarghi;Desenvolvedor+Web+frontend;Seja+bem+vindo+ao+meu+GitHub!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=6600&lines=E+ai,+tranquilo?!+🤙🏼;+Eu+sou+Kauã+Lusvarghi;Desenvolvedor+Web+Frontend;+Seja+bem+vindo+ao+meu+GitHub" />
 </h1>
 <h3 align="center">Aqui habita um apaixonado por porgramação!</h3>
 <div align="center">
