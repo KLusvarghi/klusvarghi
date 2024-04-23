@@ -23,8 +23,6 @@
     
 <h1></h1>
 <br>
-
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=klusvarghi)](https://github.com/klusvarghi/github-readme-stats)
   
 ### Skills
   
