@@ -40,7 +40,7 @@
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=TypeScript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-![TypeScript](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=TypeScript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![TypeScript](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=Next.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 
   
 ### Tools:
