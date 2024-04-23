@@ -10,8 +10,6 @@
   <img height="195px" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klusvarghi&layout=compact&hide_border=true&title_color=4682B4&text_color=D2E2F0&bg_color=0d1117&langs_count=7"/>
 </div><br><br>
   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=klusvarghi&title_color=4682b4&bg_color=0d1117&color=D2E2F0&line=4682b4&point=D2E2F0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
 <br><div>
   <h3 align="center">
     Contact-me
