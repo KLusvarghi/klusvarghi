@@ -6,7 +6,7 @@
 <h3 align="center">Aqui habita um apaixonado por porgramação!</h3>
 <div align="center">
     
-   🕹️ Atualmente estou aprendendo **Next.js** <br>
+   🕹️ Aprendendo **Next.js** no momento <br>
    🔭 Atualmente estudando e me preparando para a **primeira vaga dev**
  </div>
 <div align="center"> 
@@ -19,8 +19,8 @@
   <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,git"/><br>
-    <img src="https://skillicons.dev/icons?i=,javascript,typescript,nextjs,mysql" />
+    <img src="https://skillicons.dev/icons?i=react,html,css,javascript,typescript,nextjs"/><br>
+    <img src="https://skillicons.dev/icons?i=mysql,vscode,github,figma,git" />
 </div>
 <hr>
 <div align="center">
