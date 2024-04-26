@@ -22,11 +22,6 @@
     <img src="https://skillicons.dev/icons?i=react,html,css,javascript,typescript,nextjs"/><br>
     <img src="https://skillicons.dev/icons?i=mysql,vscode,github,figma,git" />
 </div>
-<hr>
-<div align="center">
-  <h2>🐍 Minhas contribuições 🐍</h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/klusvarghi/salesp07/output/github-contribution-grid-snake.svg" />
-</div>
 
 <hr>
 <h2 align="center">🌐 Estatísticas 🌐</h2>
