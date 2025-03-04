@@ -1,10 +1,6 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=klusvarghi.klusvarghi" />
-
-<h3 align="center">Aqui habita um apaixonado por porgramação!</h3>
-<div align="center">
-   🕹️ Aprendendo **Next.js** no momento <br>
-   🔭 Atualmente estudando e me preparando para a **primeira vaga dev**
- </div>
+<h3 align="">Hello! Here lives an enthusiastic young programmer</h3>
+<div align=center></div>div>
+<h1 align="">My name is Kauã Lusvarghi, and i'm a software developer</h3>
 <div align="center"> 
     <a href = "mailto:kauaolusvarghi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://instagram.com/lusvarghikaua" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
