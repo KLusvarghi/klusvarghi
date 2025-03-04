@@ -14,7 +14,7 @@
 <br/>
 <div>
     <img src="https://skillicons.dev/icons?i=react,next,tailwind,javascript,typescript,vite,html,css,sass" />
-    <img src="https://skillicons.dev/icons?i=styledcomponents,figma,vercel,docker,postgres"/><br>
+    <img src="https://skillicons.dev/icons?i=styledcomponents,figma,docker,postgres"/><br>
 </div>
 <br/>
     
