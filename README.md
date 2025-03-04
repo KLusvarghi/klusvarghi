@@ -1,8 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=klusvarghi.klusvarghi" />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=6600&lines=E+ai,+tranquilo?!+🤙🏼;+Eu+sou+Kauã+Lusvarghi;Desenvolvedor+Frontend+Júnior;+Seja+bem+vindo+ao+meu+GitHub" />
-</h1>
 <h3 align="center">Aqui habita um apaixonado por porgramação!</h3>
 <div align="center">
    🕹️ Aprendendo **Next.js** no momento <br>
@@ -17,7 +14,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,docker" />
-    <img src="https://skillicons.dev/icons?i=figma,github,linux,postman,styledcomponents,vercel,vite,postgres,discord,linkedin,instagram"/><br>
+    <img src="https://skillicons.dev/icons?i=figma,github,linux,postman,styledcomponents,vercel,vite,postgres"/><br>
 </div>
 <br/>
 <h2 align="center">🌐 Estatísticas 🌐</h2>
