@@ -1,5 +1,5 @@
 ### 👋 Hello! Here lives an enthusiastic young programmer
-# My name is Kauã Lusvarghi, and i'm a software developer Front-End
+# My name is Kauã Lusvarghi, and i'm a Front-End software developer
 
 <div align=start>
     <a href="https://instagram.com/lusvarghikaua" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"> 
