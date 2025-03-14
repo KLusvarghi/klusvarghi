@@ -14,7 +14,7 @@ Full-Stack Developer focused on **React** and **Node.js** | **Software Engineer*
 </a>
 <a href="https://discord.gg/604534608704438272" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </a> 
-<a href="https://api.whatsapp.com/send?phone=5513996068207text=Hello!" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-4CA143?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+<a href="https://wa.me/5511912345678?text=Ol%C3%A1,%20gostaria%20de%20falar%20com%20voc%C3%AA" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-4CA143?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 </a> 
 <a href="https://kaualusvarghi.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Website-1962B1?style=for-the-badge&logo=rocket&logoColor=white" target="_blank"></a> 
 </a> 
