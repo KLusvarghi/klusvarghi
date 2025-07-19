@@ -11,11 +11,14 @@
 </a> 
 </p>
 
-<h2>About me</h2>
+<h2> 👨🏻‍💻 &nbsp;My Journey</h2>
 
-I'm Kauã, a passionate **fullstack developer**, **designer**, and **tech enthusiast**. I enjoy creating engaging digital experiences, building online communities, and exploring the latest in technology. 
+My journey in technology began even before starting my degree in Systems Analysis and Development, but it was during the course that I truly discovered myself as a front-end developer. Fascinated by the visual impact and user experience, I dove headfirst into that world. However, over time, I realized that my ambition went beyond interfaces — I wanted the autonomy to build complete solutions, from conception to deployment.
 
-I’m constantly working on new projects to stay sharp and push my skills to the next level. 🤖  
+That was when my perspective on development expanded. I came to understand that my passion wasn't just about writing code, but about deeply understanding the entire ecosystem involved in creating software. This is where my interest in fullstack development began — but also in something broader: systems architecture, product decisions, clear processes, and developer experience. Over time, this broader perspective led me to explore areas such as DevOps, Product Management, and even team and proposal structuring — driven by a desire to build, lead, and deliver complete, high-impact solutions from end to end.
+
+<h2> 🚀 &nbsp;From Developer to Solution Architect </h2>
+Today, I work as a fullstack developer with an increasingly strategic approach to technology. I’m involved in every stage of product development — from understanding the business to system architecture and final delivery. I’ve been diving deeper into projects where I apply advanced knowledge in hexagonal architecture, monorepos, BFF, Clean Architecture, CI/CD pipelines, automated testing with TDD, real-time communication via WebSockets, and integrations with modern solutions such as key AWS services. I also actively contribute to technical documentation, system diagrams, and architectural decisions focused on scalability and maintainability. 🤖  
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>🚀 &nbsp;Front-end</h3>
