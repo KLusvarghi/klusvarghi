@@ -3,8 +3,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/kaua-lusvarghi-fullstack-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://instagram.com/lusvarghkaua" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://discord.gg/604534608704438272" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
-</a> 
 <a href="https://wa.me/5513991981875?text=Ol%C3%A1,%20gostaria%20de%20falar%20com%20voc%C3%AA" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-4CA143?style=for-the-badge&logo=whatsapp&logoColor=white"></a> 
 </a> 
 <a href="https://kaualusvarghi.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Website-1962B1?style=for-the-badge&logo=rocket&logoColor=white"></a> 
