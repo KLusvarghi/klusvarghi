@@ -27,7 +27,7 @@ I’m constantly working on new projects to stay sharp and push my skills to the
 <img src="https://skillicons.dev/icons?i=nodejs,mysql,postgres,mongodb,redis,prisma,postman,supabase,sequelize,docker,linux" />
 
 <h3>🧠 &nbsp;I'm Learning</h3>  
-<img src="https://skillicons.dev/icons?i=aiscript,aws,postgres,cypress,nestjs,firebase,rabbitmq"/><br>
+<img src="https://skillicons.dev/icons?i=aiscript,aws,cypress,vitest,nestjs,cloudflare,firebase,rabbitmq,graphql"/><br>
 </div>
             
  ![Kauã Lusvarghi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=klusvarghi&show_icons=true&theme=dracula)
