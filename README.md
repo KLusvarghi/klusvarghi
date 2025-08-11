@@ -31,10 +31,10 @@ Today, I work as a fullstack developer with an increasingly strategic approach t
 ## 🛠 Tech Stack
 
 ### 🚀 Front-end
-<img src="https://skillicons.dev/icons?i=html,css,react,vite,next,ts,javascript,redux,jest,tailwind,sass,styledcomponents,figma,materialui" />
+<img src="https://skillicons.dev/icons?i=html,css,react,vite,next,ts,javascript,redux,tailwind,sass,styledcomponents,figma,materialui" />
 
 ### 💻 Back-end
-<img src="https://skillicons.dev/icons?i=nodejs,mysql,postgres,mongodb,redis,prisma,postman,supabase,sequelize,docker,linux" />
+<img src="https://skillicons.dev/icons?i=nodejs,mysql,postgres,mongodb,redis,prisma,jest,postman,supabase,sequelize,docker,linux" />
 
 ### 🧠 I'm Learning
 <img src="https://skillicons.dev/icons?i=aiscript,aws,cypress,vitest,nestjs,cloudflare,firebase,rabbitmq,graphql" />
